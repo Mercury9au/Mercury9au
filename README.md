@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mercury9au
-- 👀 I’m interested in apps and IOT Devices for edcuatoin, health and sports   
+- 👀 I’m interested in apps and IOT Devices for education, health and sports 
 - 🌱 I’m currently learning Python, VS C++, xSens IMU, UI/UX  
 - 💞️ I’m looking to collaborate on data analytics, coding for projects 
 - 📫 How to reach me ...info@kmtek.net
